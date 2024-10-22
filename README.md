@@ -24,5 +24,5 @@ I’m a Full-Stack Developer and Data Enthusiast passionate about crafting innov
 Let’s connect and build something extraordinary together! 🚀🔧
 
 **Connect with me on:**
-- [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-20ma)
+- [LinkedIn](https://www.linkedin.com/in/m1-ahmad)
 - [GitHub](https://github.com/m-1Ahmad)
